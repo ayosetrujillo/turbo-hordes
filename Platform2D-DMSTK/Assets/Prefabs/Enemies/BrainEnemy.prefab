@@ -435,7 +435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.8
   speedBackup: 0.8
-  wallAware: 0.3
+  wallAware: 0.2
   groundLayer:
     serializedVersion: 2
     m_Bits: 256
